@@ -18,7 +18,7 @@ from django.urls import path
 from movies import views
 
 
-
+#sdfsdfsdfsfd
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('movies/', views.movies),
